@@ -1,0 +1,2 @@
+# CourseCRUD
+.net core
